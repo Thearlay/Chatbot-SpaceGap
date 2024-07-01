@@ -28,7 +28,7 @@ const createChatLi = (message, className) => {
 const generateResponse = (chatElement) => {
     
     const messageElement = chatElement.querySelector("p");
-    const API = 'AIzaSyDCEiNJcvQpye41jmIADN64WY9xkxbtpyk' ;
+    const API = 'API_Key' ;
 
     
 
